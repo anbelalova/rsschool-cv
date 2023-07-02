@@ -8,8 +8,8 @@
 
 ### Education
 Higher School of Economics (HSE)
-	2018-2022
-	Information Science and Computation Technology
+	+ 2018-2022
+	+ Information Science and Computation Technology
 
 ### Skills
 * SQL
