@@ -3,11 +3,12 @@
 ### Contacts
 * telegram: @nastyabelalova
 * discord: Nastya (@anbelalova)
-=======================
+
 ### About me
+I have experience in development but want to learn frontend.
 
 ### Education
-Higher School of Economics (HSE)
+* Higher School of Economics (HSE)
 	+ 2018-2022
 	+ Information Science and Computation Technology
 
