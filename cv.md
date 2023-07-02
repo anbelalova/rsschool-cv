@@ -7,6 +7,10 @@
 ### About me
 
 ### Education
+Higher School of Economics (HSE)
+	2018-2022
+	Information Science and Computation Technology
+
 ### Skills
 * SQL
 * Git
@@ -33,4 +37,8 @@ function getCount(str) {
 }
 ```
 ### Experience
+* (09.2022 - 10.2022) Study project on Django
+* (04.2023 - now) Glowbyte
+
 ### English
+B2
