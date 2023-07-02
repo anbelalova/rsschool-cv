@@ -1,11 +1,12 @@
 # CV
 ## Anastasiia Belalova
-### Contacs
+### Contacts
 * telegram: @nastyabelalova
 * discord: Nastya (@anbelalova)
 =======================
-### About:
+### About me
 
+### Education
 ### Skills
 * SQL
 * Git
@@ -31,3 +32,5 @@ function getCount(str) {
   return count;
 }
 ```
+### Experience
+### English
